@@ -1,0 +1,19 @@
+{
+  "name": "Mi_Pagina_Web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charol54678/Mi_Pagina_Web.git"
+  },
+  "keywords": [],
+  "author": "npm install",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charol54678/Mi_Pagina_Web/issues"
+  },
+  "homepage": "https://github.com/charol54678/Mi_Pagina_Web"
+}
